@@ -1,0 +1,9 @@
+{
+  "name": "login-facil-produbanco",
+  "fullName": "login-facil-produbanco",
+  "id": "jid1-YltZykP7A7KeoQ",
+  "description": "Let you remove the readonly password input on the page http://www.produbanco.com/ and avoid the on-screen keyboard",
+  "author": "Marcelo Andrade",
+  "license": "MIT",
+  "version": "0.1"
+}
